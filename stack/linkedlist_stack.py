@@ -57,6 +57,9 @@ class Stack:
     def __init__(self):
         self.head = None
 
+    def isEmpty(self):
+        return self.head is None
+
     def push(self, data):
         new_node = Node(data)
         new_node.next = self.head
@@ -94,3 +97,4 @@ if __name__ == "__main__":
 
     print("Peek stack")
     print(stack.peek())
+    print(stack.isEmpty())
