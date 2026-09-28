@@ -1,0 +1,17 @@
+
+For AI/ML Research Engineer role, these topics i should have to know and comfortable to solve
+1. Array 
+2. String 
+3. Hashing 
+4. Sorting 
+5. Binary Search 
+6. Sliding Window 
+7. Stack 
+8. Queue 
+9. Linked List 
+10. Trees
+11. Binary Search Tree 
+12. Graphs 
+13. Heap 
+14. Recursion 
+15. Dynamic Programming
